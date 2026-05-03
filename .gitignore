@@ -1,2 +1,4 @@
 pythonexe
 changes.md
+.idea/*.iml
+__pycache__/
